@@ -47,11 +47,5 @@ git config --global user.email ""
         - git log
     20. to checkout to a particular commit
         - git checkout commitid*/
-
-    /*just to test the commit*///lets see
-    /*jsut to check the changs for 2nd time for commit
-    trying again*/
-    /*ajkfas
-    safklksajf
-    aflka
-    */
+var a=5;
+console.log(a);
