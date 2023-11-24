@@ -1,4 +1,4 @@
-Http 1.1
+/*Http 1.1
 It works on the textual format.
 There is head of line blocking that blocks all the requests behind it until it doesn’t get its all resources.
 It uses requests resource Inlining for use getting multiple pages
@@ -23,4 +23,4 @@ Rating: 4
 var car ="tata"
 Object syntax= var <object name> = {key1: value1,key2:value2,...keyN:valueN};
 Properties : var car = {Make:"tata",Model:"nano",color:"black",Fuel:"petrol",Weight:"430kg",Mileage:"30kmpl",Rating:4};
-Properties can usually be changed, added, and deleted, but some are read only.
+Properties can usually be changed, added, and deleted, but some are read only.*/
