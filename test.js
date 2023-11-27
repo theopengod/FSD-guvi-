@@ -1,3 +1,3 @@
-var car = {make :"Tata",model:"harrier",year:"2023",color:"black"};
-var car.name:"arjun";
-console.log(car);
+var a=1;
+var b=1;
+console.log(a+b);
