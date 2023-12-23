@@ -18,5 +18,6 @@ const person2=[
     }
     
 ]
+
 console.log(person2[0].stack[1]);
 console.log(person[0].stack[2].back[1]);

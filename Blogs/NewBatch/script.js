@@ -47,7 +47,7 @@ console.log(person);
         }]
     console.log(bio);
     console.log(bio[2].course(1).stack(1));*/
-    const nestObj = [
+   /* const nestObj = [
         {
           class: "FSD",
           studend: [
@@ -76,5 +76,13 @@ console.log(person);
       ];
       
       console.log("siva's -", nestObj[0].studend[0].stack[2].js[0]);
-      console.log("chandru's", nestObj[0].studend[1].stack[2].js[0]);
+      console.log("chandru's", nestObj[0].studend[1].stack[2].js[0]);*/
       
+      let n=[55,78,65,89,273,147,567,24]
+      for(let a=0;a<10;a++)
+      {
+          if(n[a]%2==0)
+          console.log(n[a]);
+          else
+          console.log(n[a],"its odd");
+      }
