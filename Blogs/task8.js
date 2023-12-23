@@ -47,7 +47,7 @@ for (let i in json){
 for (let i of json){
     console.log(json.msg);
 }*/
-let json = [{
+/*let json = [{
     "id" : "1", 
     "msg"   : "hi",
     "tid" : "2013-05-05 23:35",
@@ -61,4 +61,4 @@ let json = [{
 }];
 json.forEach((i)=>{
     console.log(i);
-})
+})*/

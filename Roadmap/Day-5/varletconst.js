@@ -93,8 +93,9 @@ let b=2;
 console.log(a,b); using destructure concept swapping */
 
 /*object destrucutre*/
-let person = {
+/*let person = {
     name:"arjun",
     age:25
 }
 console.log((person.name,person.age));
+*/
